@@ -1,4 +1,4 @@
-#React Digital-clock
+# React Digital-clock
 
 ### Initialize Project
 
